@@ -29,6 +29,7 @@ main {
     background: #E9EAEC;
     border-radius: 20px;
     margin-top: 25px;
+    padding: 25px;
 }
 
 .detail section p {
