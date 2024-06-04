@@ -28,8 +28,7 @@ main {
     flex-basis: 0;
     background: #E9EAEC;
     border-radius: 20px;
-    margin-top: 25px;
-    padding: 25px;
+    margin: 25px;
 }
 
 .detail section p {
